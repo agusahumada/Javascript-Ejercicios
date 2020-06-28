@@ -1,2 +1,2 @@
-# Javascript-Ejercicios
-Ejercico de práctica N°1. Creando elementos en Javascript
+# Javascript-Ejercicios 
+Seccion: DOM, Window y Scripting.
