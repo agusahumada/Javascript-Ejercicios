@@ -1,18 +1,18 @@
-//Reemplazar
-const nuevoEncabezado = document.createElement("h2");
+// //Reemplazar
+// const nuevoEncabezado = document.createElement("h2");
 
-//Agregar un id
-nuevoEncabezado.id = "encabezado";
+// //Agregar un id
+// nuevoEncabezado.id = "encabezado";
 
-//agregar Texto
-nuevoEncabezado.appendChild(document.createTextNode("Los mejores cursos"));
+// //agregar Texto
+// nuevoEncabezado.appendChild(document.createTextNode("Los mejores cursos"));
 
-//Elemento anterior sera reeemplazado
-const anterior = document.querySelector("#encabezado");
+// //Elemento anterior sera reeemplazado
+// const anterior = document.querySelector("#encabezado");
 
-const elPadre = document.querySelector("#lista-cursos");
+// const elPadre = document.querySelector("#lista-cursos");
 
-//reemplazar elemento padre
-elPadre.replaceChild(nuevoEncabezado, anterior);
+// //reemplazar elemento padre
+// elPadre.replaceChild(nuevoEncabezado, anterior);
 
-console.log(anterior.parentElement);
+// console.log(anterior.parentElement);
